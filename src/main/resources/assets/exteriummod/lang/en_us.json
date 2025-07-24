@@ -1,0 +1,10 @@
+{
+  "item.exteriummod.bismuth": "Bismuth",
+  "item.exteriummod.raw_bismuth": "Raw Bismuth",
+
+  "block.exteriummod.bismuth_block": "Block of Bismuth",
+  "block.exteriummod.bismuth_ore": "Ore of Bismuth",
+
+  "creativetab.exteriummod.bismuth_items": "Bismuth Items",
+  "creativetab.exteriummod.bismuth_blocks": "Bismuth Blocks"
+}
