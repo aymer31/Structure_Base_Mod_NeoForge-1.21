@@ -22,15 +22,17 @@ public class ModCreativeModeTabs {
                     .displayItems((itemDisplayParameters, output) -> {
                         output.accept(ModItems.BISMUTH);
                         output.accept(ModItems.RAW_BISMUTH);
+                        output.accept(ModItems.CHISEL);
                     }).build());
 
-    public static final Supplier<CreativeModeTab> BISMUTH_BLOCKs_TAB = CREATIVE_MODE_TAB.register("bismuth_block_tab",
+    public static final Supplier<CreativeModeTab> BISMUTH_BLOCKS_TAB = CREATIVE_MODE_TAB.register("bismuth_block_tab",
             () -> CreativeModeTab.builder().icon(() -> new ItemStack(ModBlocks.BISMUTH_BLOCK))
                     .withTabsBefore(ResourceLocation.fromNamespaceAndPath(ExteriumMod.MOD_ID,"bismuth_items_tab"))
                     .title(Component.translatable("creativetab.exteriummod.bismuth_blocks"))
                     .displayItems((itemDisplayParameters, output) -> {
                         output.accept(ModBlocks.BISMUTH_BLOCK);
                         output.accept(ModBlocks.BISMUTH_ORE);
+                        output.accept(ModBlocks.BISMUTH_DEEPSLATE_ORE);
                     }).build());
 
 

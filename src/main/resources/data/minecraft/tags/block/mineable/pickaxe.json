@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values":[
+    "exteriummod:bismuth_block",
+    "exteriummod:bismuth_ore",
+    "exteriummod:bismuth_deepslate_ore"
+  ]
+}
