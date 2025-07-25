@@ -2,11 +2,22 @@
   "item.exteriummod.bismuth": "Bismuth",
   "item.exteriummod.raw_bismuth": "Raw Bismuth",
   "item.exteriummod.chisel": "Chisel",
+  "item.exteriummod.radish": "Radish",
+  "item.exteriummod.starlight_ashes": "starlight ashes",
+  "item.exteriummod.frostfire_ice": "frostfire ice",
+
 
   "block.exteriummod.bismuth_block": "Block of Bismuth",
   "block.exteriummod.bismuth_ore": "Bismuth Ore",
   "block.exteriummod.bismuth_deepslate_ore": "Bismuth Deepslate Ore",
+  "block.exteriummod.magic_block": "Magic Block",
 
   "creativetab.exteriummod.bismuth_items": "Bismuth Items",
-  "creativetab.exteriummod.bismuth_blocks": "Bismuth Blocks"
+  "creativetab.exteriummod.bismuth_blocks": "Bismuth Blocks",
+
+  "tooltip.exteriummod.magic_block.tooltip": "This Block is very §9MAGICAL§r",
+
+  "tooltip.exteriummod.chisel.shift_down": "This Item can chisel Blocks into Bricks",
+  "tooltip.exteriummod.chisel": "Press §eShift§r for more Information",
+  "tooltip.exteriummod.radish.tooltip": "Tastes really great !"
 }
